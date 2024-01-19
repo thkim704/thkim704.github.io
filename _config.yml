@@ -40,6 +40,15 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Skill Stack
+    layout: list
+    content:
+      - layout: top-left
+        title: Language
+        sub_title: 컴퓨터시스템과
+        caption: 2018.02 - 2024.02
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -47,15 +56,16 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 이력서 관리 사이트
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/thkim704/Resume
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          HTML, CSS, JavaScript, Spring, Spring Data JPA, MySQL
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          -개인 프로젝트
+          -취업에 도움이 되도록 원활한 이력 관리를 위한 사이트
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -67,9 +77,10 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Java, Xml, FireBase, Google Map Platform
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          -개인 프토젝트
+          -위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -81,9 +92,10 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          HTML, css, MySQL, BootStrap
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project\
+          -팀 프토젝트
+          -잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트
   - title: Education
     layout: list
     content:
