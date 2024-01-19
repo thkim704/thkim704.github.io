@@ -90,7 +90,8 @@ content:
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
         description: | # this will include new lines to allow paragraphs
-          취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.\n<a href="google.com">발표자료</a>
+          취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
+          <a href="google.com">발표자료</a>
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
