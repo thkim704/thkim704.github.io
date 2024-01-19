@@ -39,7 +39,7 @@ content:
   - title: Skill Stack
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Language
@@ -51,19 +51,19 @@ content:
         title: DataBase
         description: | # this will include new lines to allow paragraphs
           <mark>Oracle</mark> <mark>MySQL</mark> <mark>Firebase</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Server
         description: | # this will include new lines to allow paragraphs
           <mark>Apache Tomcat</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Framework
         description: | # this will include new lines to allow paragraphs
           <mark>Spring</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Environment
@@ -72,7 +72,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 이력서 관리 사이트
@@ -85,7 +85,7 @@ content:
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Spring Data JPA</mark> <mark>MySQL</mark>
         description: | # this will include new lines to allow paragraphs
           취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Food-Sharing
@@ -98,7 +98,7 @@ content:
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
         description: | # this will include new lines to allow paragraphs
           위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱을 개발하는 개인 프토젝트를 진행하였습니다. 폭포수 모델을 도입하여 자료조사부터 결과물 발표에 이르는 프로젝트 생명주기를 체계적으로 관리하였습니다.
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 웹툰 추천 사이트
