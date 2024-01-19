@@ -98,7 +98,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 
           이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
-          <a href="https://www.google.com">발표자료</a>
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -117,7 +116,8 @@ content:
         quote: >
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
         description: | # this will include new lines to allow paragraphs
-          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱을 개발하는 개인 프토젝트를 진행하였습니다. 폭포수 모델을 도입하여 자료조사부터 결과물 발표에 이르는 프로젝트 생명주기를 체계적으로 관리하였습니다.
+          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱을 개발하는 개인 프토젝트를 진행하였습니다. 
+          폭포수 모델을 도입하여 자료조사부터 결과물 발표에 이르는 프로젝트 생명주기를 체계적으로 관리하였습니다.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
