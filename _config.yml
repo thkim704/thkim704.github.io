@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kim Tae Hyeon
-title: Your job title
+title: 신입 개발자
 email: thkim704@naver.com
 # email_title: Email (Email title override)
 phone: 010-4624-7265
@@ -19,19 +19,7 @@ website: https://github.com/thkim704
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username: thkim704
 
 # Additional icon links
 additional_links:
