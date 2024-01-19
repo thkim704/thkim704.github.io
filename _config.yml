@@ -63,6 +63,12 @@ content:
         title: Framework
         description: | # this will include new lines to allow paragraphs
           <mark>Spring</mark>
+      - layout: center
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Environment
+        description: | # this will include new lines to allow paragraphs
+          <mark>Android Studio</mark> <mark>IntelliJ IDEA</mark> <mark>Eclipse</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
