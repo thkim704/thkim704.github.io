@@ -12,8 +12,6 @@ email: thkim704@naver.com
 # email_title: Email (Email title override)
 phone: 010-4624-7265
 # phone_title: Phone (Phone title override)
-address: 서울특별시 영등포구
-# addresse_title: Address (Address title override)
 website: https://github.com/thkim704
 # website_title: Web (Website title override)
 
@@ -39,7 +37,6 @@ about_content: | # this will include new lines to allow paragraphs
     - Lists
     - Tables
     - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Skill Stack
@@ -62,39 +59,37 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: github.com/thkim704/Resume
         quote: >
-          HTML, CSS, JavaScript, Spring, Spring Data JPA, MySQL
+          <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Spring Data JPA</mark> <mark>MySQL</mark>
         description: | # this will include new lines to allow paragraphs
-          취업에 도움이 되도록 원활한 이력 관리를 위한 사이트
+          취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Food-Sharing
         link: github.com/thkim704/Food-Sharing
-        link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: github.com/thkim704/Food-Sharing
         quote: >
-          Java, Xml, FireBase, Google Map Platform
+          <mark>Java</mark> <mark>Xml</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
         description: | # this will include new lines to allow paragraphs
-          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱
+          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱을 개발하는 개인 프토젝트를 진행하였습니다. 폭포수 모델을 도입하여 자료조사부터 결과물 발표에 이르는 프로젝트 생명주기를 체계적으로 관리하였습니다.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 웹툰 추천 사이트
         link: github.com/thkim704/Webtoon
-        link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: github.com/thkim704/Webtoon
         quote: >
-          HTML, css, MySQL, BootStrap
+          <mark>HTML</mark> <mark>CSS</mark> <mark>MySQL</mark> <mark>BootStrap</mark>
         description: | # this will include new lines to allow paragraphs
-          잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트
+          잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트를 구축하는 팀 프로넥트를 진행하였으며, 저는 자유게사판 및 리뷰게시판 구현을 담당하였습니다.
   - title: Education
     layout: list
     content:
