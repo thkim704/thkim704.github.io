@@ -39,41 +39,41 @@ content:
   - title: Skill Stack
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Language
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           <mark>Java</mark> <mark>JavaScript</mark> <mark>C</mark> <mark>C++</mark> <mark>Python</mark> <mark>HTML</mark> <mark>XML</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: DataBase
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           <mark>Oracle</mark> <mark>MySQL</mark> <mark>Firebase</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Server
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           <mark>Apache Tomcat</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Framework
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           <mark>Spring</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Environment
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           <mark>Android Studio</mark> <mark>IntelliJ IDEA</mark> <mark>Eclipse</mark>
-      - layout: top-middle
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Etc
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           <mark>JPA</mark> <marDOM</mark> <mark>Google Map Platform</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
