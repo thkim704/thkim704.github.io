@@ -84,12 +84,15 @@ content:
         title: 이력서 관리 사이트
         link: github.com/thkim704/Resume
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: github.com/thkim704/Resume
-          - title:  Presentation
+          - title:  Presentation for project
             icon: fab fa-twitter
             url: https://drive.google.com/file/d/13VydbU_RV_wCg2fJBGRLA9GxWavSLHXa/view?usp=sharing
+          - title:  video for project
+            icon: fab fa-youtube
+            url: https://drive.google.com/file/d/1EDxfL2TciwK9ljYu9O6D5cg0JA5wkyj5/view?usp=sharing
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
         description: | # this will include new lines to allow paragraphs
@@ -102,12 +105,15 @@ content:
         title: Food-Sharing
         link: github.com/thkim704/Food-Sharing
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: github.com/thkim704/Food-Sharing
-          - title:  Presentation
+          - title:  Presentation for project
             icon: fab fa-file
             url: https://drive.google.com/file/d/1BlSqYWhyzamuOk_FcnLxK5ZsPnQUxeod/view?usp=sharing
+          - title:  video for project
+            icon: fab fa-video
+            url: https://drive.google.com/file/d/1-mZGUk4QAgtq6kTC3VBvhzxFBZsgFgTP/view?usp=sharing
         quote: >
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
         description: | # this will include new lines to allow paragraphs
@@ -118,10 +124,10 @@ content:
         title: 웹툰 추천 사이트
         link: github.com/thkim704/Webtoon
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: github.com/thkim704/Webtoon
-          - title:  Presentation
+          - title:  Presentation for project
             icon: fab fa-file
             url: https://drive.google.com/file/d/1A6MH0tL-uIRYZjqxyJVnpR9MZ5ybxUds/view?usp=sharing
         quote: >
