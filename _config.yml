@@ -88,7 +88,7 @@ content:
             icon: fab fa-github
             url: github.com/thkim704/Resume
           - title:  Presentation for project
-            icon: fab fa-twitter
+            icon: fab fa-stackoverflow
             url: https://drive.google.com/file/d/13VydbU_RV_wCg2fJBGRLA9GxWavSLHXa/view?usp=sharing
           - title:  video for project
             icon: fab fa-youtube
@@ -109,7 +109,7 @@ content:
             icon: fab fa-github
             url: github.com/thkim704/Food-Sharing
           - title:  Presentation for project
-            icon: fab fa-file
+            icon: fab fa-stackoverflow
             url: https://drive.google.com/file/d/1BlSqYWhyzamuOk_FcnLxK5ZsPnQUxeod/view?usp=sharing
           - title:  video for project
             icon: fab fa-facebook
@@ -128,7 +128,7 @@ content:
             icon: fab fa-github
             url: github.com/thkim704/Webtoon
           - title:  Presentation for project
-            icon: fab fa-file
+            icon: fab fa-stackoverflow
             url: https://drive.google.com/file/d/1A6MH0tL-uIRYZjqxyJVnpR9MZ5ybxUds/view?usp=sharing
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>MySQL</mark> <mark>BootStrap</mark>
