@@ -43,7 +43,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Language
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Java</mark> <mark>JavaScript</mark> <mark>C</mark> <mark>C++</mark> <mark>Python</mark> <mark>HTML</mark> <mark>XML</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -55,25 +55,25 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Server
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Apache Tomcat</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Framework
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Spring</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Environment
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Android Studio</mark> <mark>IntelliJ IDEA</mark> <mark>Eclipse</mark>
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Etc
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>JPA</mark> <mark>DOM</mark> <mark>Google Map Platform</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
