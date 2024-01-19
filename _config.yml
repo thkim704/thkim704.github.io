@@ -87,6 +87,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: github.com/thkim704/Resume
+          - title:  Presentation
+            icon: fab fa-file
+            url: https://drive.google.com/file/d/13VydbU_RV_wCg2fJBGRLA9GxWavSLHXa/view?usp=sharing
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
         description: |-
@@ -102,6 +105,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: github.com/thkim704/Food-Sharing
+          - title:  Presentation
+            icon: fab fa-file
+            url: https://drive.google.com/file/d/1BlSqYWhyzamuOk_FcnLxK5ZsPnQUxeod/view?usp=sharing
         quote: >
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
         description: | # this will include new lines to allow paragraphs
@@ -115,6 +121,9 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: github.com/thkim704/Webtoon
+          - title:  Presentation
+            icon: fab fa-file
+            url: https://drive.google.com/file/d/1A6MH0tL-uIRYZjqxyJVnpR9MZ5ybxUds/view?usp=sharing
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>MySQL</mark> <mark>BootStrap</mark>
         description: | # this will include new lines to allow paragraphs
