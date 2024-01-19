@@ -148,7 +148,7 @@ content:
   - title: Certificate
     layout: list
     content:
-      - layout: top-left
+      - layout: top-middle
         title: 정보처리산업기사
         sub_title: 한국산업인력공단
         caption: 2023.11.17.
