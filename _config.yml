@@ -74,7 +74,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Etc
         description: | # this will include new lines to allow paragraphs
-          <mark>JPA</mark> <marDOM</mark> <mark>Google Map Platform</mark>
+          <mark>JPA</mark> <mark>DOM</mark> <mark>Google Map Platform</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
