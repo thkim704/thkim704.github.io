@@ -39,36 +39,42 @@ content:
   - title: Skill Stack
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Language
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Java</mark> <mark>JavaScript</mark> <mark>C</mark> <mark>C++</mark> <mark>Python</mark> <mark>HTML</mark> <mark>XML</mark>
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: DataBase
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Oracle</mark> <mark>MySQL</mark> <mark>Firebase</mark>
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Server
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Apache Tomcat</mark>
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Framework
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Spring</mark>
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Environment
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           <mark>Android Studio</mark> <mark>IntelliJ IDEA</mark> <mark>Eclipse</mark>
+      - layout: top-middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Etc
+        quote: >
+          <mark>JPA</mark> <marDOM</mark> <mark>Google Map Platform</mark>
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -82,7 +88,7 @@ content:
             icon: fab fa-github
             url: github.com/thkim704/Resume
         quote: >
-          <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>Spring Data JPA</mark> <mark>MySQL</mark>
+          <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
         description: | # this will include new lines to allow paragraphs
           취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
       - layout: top-middle
