@@ -88,10 +88,10 @@ content:
             icon: fab fa-github
             url: github.com/thkim704/Resume
           - title:  Presentation for project
-            icon: fas fa-folder-open
+            icon: fas fa-file-powerpoint
             url: https://drive.google.com/file/d/13VydbU_RV_wCg2fJBGRLA9GxWavSLHXa/view?usp=sharing
           - title:  video for project
-            icon: fas fa-circle-play
+            icon: fas fa-play
             url: https://drive.google.com/file/d/1EDxfL2TciwK9ljYu9O6D5cg0JA5wkyj5/view?usp=sharing
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
@@ -112,7 +112,7 @@ content:
             icon: fas fa-file-powerpoint
             url: https://drive.google.com/file/d/1BlSqYWhyzamuOk_FcnLxK5ZsPnQUxeod/view?usp=sharing
           - title:  video for project
-            icon: far fa-play
+            icon: fas fa-play
             url: https://drive.google.com/file/d/1-mZGUk4QAgtq6kTC3VBvhzxFBZsgFgTP/view?usp=sharing
         quote: >
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
