@@ -88,11 +88,11 @@ content:
             icon: fab fa-github
             url: github.com/thkim704/Resume
           - title:  Presentation
-            icon: fab fa-file
+            icon: fab fa-twitter
             url: https://drive.google.com/file/d/13VydbU_RV_wCg2fJBGRLA9GxWavSLHXa/view?usp=sharing
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
-        description: |-
+        description: | # this will include new lines to allow paragraphs
           취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 
           이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
           <a href="https://www.google.com">발표자료</a>
