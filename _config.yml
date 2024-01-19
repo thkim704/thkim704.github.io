@@ -112,7 +112,7 @@ content:
             icon: fab fa-file
             url: https://drive.google.com/file/d/1BlSqYWhyzamuOk_FcnLxK5ZsPnQUxeod/view?usp=sharing
           - title:  video for project
-            icon: fab fa-video
+            icon: fab fa-facebook
             url: https://drive.google.com/file/d/1-mZGUk4QAgtq6kTC3VBvhzxFBZsgFgTP/view?usp=sharing
         quote: >
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
