@@ -56,7 +56,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 이력서 관리 사이트
-        link: https://github.com/thkim704/Resume
+        link: github.com/thkim704/Resume
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -64,13 +64,12 @@ content:
         quote: >
           HTML, CSS, JavaScript, Spring, Spring Data JPA, MySQL
         description: | # this will include new lines to allow paragraphs
-          -개인 프로젝트
-          -취업에 도움이 되도록 원활한 이력 관리를 위한 사이트
+          취업에 도움이 되도록 원활한 이력 관리를 위한 사이트
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Food-Sharing
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: github.com/thkim704/Food-Sharing
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -79,13 +78,12 @@ content:
         quote: >
           Java, Xml, FireBase, Google Map Platform
         description: | # this will include new lines to allow paragraphs
-          -개인 프토젝트
-          -위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱
+          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 웹툰 추천 사이트
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: github.com/thkim704/Webtoon
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -94,8 +92,7 @@ content:
         quote: >
           HTML, css, MySQL, BootStrap
         description: | # this will include new lines to allow paragraphs
-          -팀 프토젝트
-          -잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트
+          잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트
   - title: Education
     layout: list
     content:
