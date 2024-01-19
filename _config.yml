@@ -95,12 +95,12 @@ content:
     content:
       - layout: top-left
         title: 인하공업전문대학교
-        sub_title: 컴퓨터시스템과
+        sub_title: 컴퓨터시스템과 / 학점 ( 3.95 / 4.5 )
         caption: 2018.02 - 2024.02
         quote: >
-          Short institution or course description (optional)
+          인하공업전문대학교는 전 세계 산업현장에서 활발히 활동하고 있는 11만 명 가까운 졸업생을 배출한 명실상부한 대한민국 최고의 전문대학입니다.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          저는 대학 시절 동안 팀워크, 촉박한 마감 기한 준수 등 습득한 주요 기술 대부분을 배웠습니다. 모든 활동에 성실히 임한 결과 성공적인 프로젝트 결과물과 준수한 학업 성취를 이룰 수 있었습니다. 이러한 경험을 통해 뛰어난 문제 해결능력과 기획 능력을 갖추게 되었습니다. 특히, 각종 도전과 고난을 극복하면서 자발적이고 적극적인 태도를 키우게 되었습니다. 
   - title: Certificate
     layout: list
     content:
