@@ -39,31 +39,31 @@ content:
   - title: Skill Stack
     layout: list
     content:
-      - layout: center
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Language
         description: | # this will include new lines to allow paragraphs
           <mark>Java</mark> <mark>JavaScript</mark> <mark>C</mark> <mark>C++</mark> <mark>Python</mark> <mark>HTML</mark> <mark>XML</mark>
-      - layout: center
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: DataBase
         description: | # this will include new lines to allow paragraphs
           <mark>Oracle</mark> <mark>MySQL</mark> <mark>Firebase</mark>
-      - layout: center
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Server
         description: | # this will include new lines to allow paragraphs
           <mark>Apache Tomcat</mark>
-      - layout: center
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Framework
         description: | # this will include new lines to allow paragraphs
           <mark>Spring</mark>
-      - layout: center
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Environment
