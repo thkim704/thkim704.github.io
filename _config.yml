@@ -97,7 +97,11 @@ content:
           <mark>HTML</mark> <mark>CSS</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>JPA</mark> <mark>MySQL</mark>
         description: | # this will include new lines to allow paragraphs
           취업에 도움이 되도록 원활한 이력 관리를 위한 사이트를 구현하는 개인 프로젝트입니다. 
-          이 프로젝트를 통하여 Spring Framework를 익혔으며 JPA, DOM과 같은 기술 또한 배워 적용하였습니다.
+          Oven을 이용해 UI/UX 화면 설계를 하였습니다. 요구사항에 따라 기능을 상세하게 설계하였습니다.
+          기획 산출물을 토대로 엔티티와 속성들을 도출해내고, 정규화를 진행하여 ERD를 설계하였습니다. 
+          Spring Boot를 사용하여 MVC 모델로 사이트를 구현하였습니다. 
+          MySQL을 DB로 사용하였으며, Spring Data JPA를 사용해 더 효율적이고 일관적으로 데이터를 관리할 수 있도록 하였습니다. 
+          DOM을 사용하여 동적 페이지로 구현하였습니다.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -116,8 +120,11 @@ content:
         quote: >
           <mark>Java</mark> <mark>XML</mark> <mark>Android Studio</mark> <mark>FireBase</mark> <mark>Google Map Platform</mark>
         description: | # this will include new lines to allow paragraphs
-          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱을 개발하는 개인 프토젝트를 진행하였습니다. 
-          폭포수 모델을 도입하여 자료조사부터 결과물 발표에 이르는 프로젝트 생명주기를 체계적으로 관리하였습니다.
+          위치 기반 시스템을 활용한 지역 사람들 끼리 음식을 나눌 수 있는 앱을 개발하는 개인 프토젝트입니다. 
+          Oven을 이용해 UI/UX 화면 설계를 하였습니다. 기능 요구사항을 기반으로 상세한 프로세스 동작 과정을 도출하여 동작흐름도를 설계하였습니다.
+          Android Studio 환경에서 앱을 구현하였습니다.
+          Firebase를 DB로 사용하였고, Google Map Platform API를 도입하여 geocoding 기능을 사용해 주소 등록 기능을 만들었습니다. 
+          설계서를 기반으로 체크 리스트를 만들었으면 이를 통해 테스트를 진행하였습니다.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -133,7 +140,8 @@ content:
         quote: >
           <mark>HTML</mark> <mark>CSS</mark> <mark>MySQL</mark> <mark>BootStrap</mark>
         description: | # this will include new lines to allow paragraphs
-          잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트를 구축하는 팀 프로넥트를 진행하였으며, 저는 자유게사판 및 리뷰게시판 구현을 담당하였습니다.
+          잊혀져 가거나 숨겨진 웹툰 추천하고 사용자들이 게시판을 이용해 자유롭게 웹툰을 리뷰하는 사이트를 구축하는 팀 프로넥트입니다.
+          HTML과 CSS 그리고 JavaScript를 사용하여 총 14개의 화면 중 8개의 화면, 약 17개의 기능 중 11개의 기능을 담당하여 구현했습니다. 제가 담당한 주요 기능은 게시판 기능입니다.
   - title: Education
     layout: list
     content:
